@@ -1,2 +1,1 @@
-# .github
-Code Swiftly README
+profile/README.md
