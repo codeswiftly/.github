@@ -1,24 +1,12 @@
 # Code Swiftly
 
-Welcome to the Code Swiftly organization! This repository contains organization-wide community health files and documentation.
+**Building fast, thinking deep with Swift.**
 
-## About Code Swiftly
+Code Swiftly is dedicated to the craft of Swift programming. We explore low-level optimizations, performance patterns, and advanced language features to build robust, high-performance software.
 
-Code Swiftly is dedicated to building high-quality Swift applications and tools for the Apple ecosystem.
+### Focus Areas
+- **Performance:** Struct packing, memory layout, and type inference optimizations.
+- **Architecture:** Scalable patterns for complex application systems.
+- **Tooling:** Crafting seamless developer experiences.
 
-## Repository Purpose
-
-This `.github` repository serves as a central location for:
-
-- Organization-wide default community health files
-- Contribution guidelines
-- Issue and pull request templates
-- Organization profile and documentation
-
-## Getting Started
-
-Explore our repositories to find projects that interest you. We welcome contributions from the community!
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+[Visit Code Swiftly](https://codeswiftly.github.io)
