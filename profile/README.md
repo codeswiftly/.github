@@ -9,4 +9,4 @@ Code Swiftly is dedicated to the craft of Swift programming. We explore low-leve
 - **Architecture:** Scalable patterns for complex application systems.
 - **Tooling:** Crafting seamless developer experiences.
 
-[Visit Code Swiftly](https://codeswiftly.github.io)
+[Visit Code Swiftly](https://codeswiftly.github.io/documentation/codeswiftly)
